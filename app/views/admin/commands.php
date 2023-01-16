@@ -14,7 +14,6 @@
                         <th scope="col">ID на корисник</th>
                         <th scope="col">Вкупно</th>
                         <th scope="col">Датум на нарачка</th>
-                        <th scope="col">Статус на нарачката</th>
                     </tr>
                 </thead>
                 <tbody id="tableProducts">

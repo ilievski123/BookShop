@@ -63,7 +63,7 @@ CREATE TABLE `command` (
 --
 
 INSERT INTO `command` (`idCommand`, `idUserCommand`, `amountCommand`, `dateCommand`, `stateCommand`) VALUES
-(15, 16, 55, '2022-03-21 19:53:01', 'Processing');
+(15, 16, 55, '2023-01-13 19:53:01', '');
 
 -- --------------------------------------------------------
 

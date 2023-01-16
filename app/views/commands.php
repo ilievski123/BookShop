@@ -12,7 +12,6 @@
                     <tr>
                         <th scope="col">Датум</th>
                         <th scope="col">Цена(€)</th>
-                        <th scope="col">Статус на нарачката</th>
                     </tr>
                 </thead>
                 <tbody id="tableCategories">
